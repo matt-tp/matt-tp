@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Martori!
-- I love puzzle games, hiking, music, making bread. 
+- I love puzzle games, hiking, music, and making bread. 
 
 <!---
 matt-tp/matt-tp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
